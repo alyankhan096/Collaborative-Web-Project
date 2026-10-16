@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ayan's Profile</title>
+</head>
+<body>
+    <h1>My Profile</h1>
+    <h2>Ayan</h2>
+
+    <p>Hello! My name is Ayan.</p>
+    <p>I am a student learning ICT.</p>
+
+    <h3>My Interests</h3>
+    <ul>
+        <li>Technology</li>
+        <li>Programming</li>
+        <li>Sports</li>
+    </ul>
+
+    <h3>My Goal</h3>
+    <p>My goal is to improve my computer
+    skills and learn web development.</p>
+</body>
+</html>
